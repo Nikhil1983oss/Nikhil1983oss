@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/festro-live.gif"
+    src="./festro-live.gif"
     width="100%"
     alt="Festro animated banner"
   />
