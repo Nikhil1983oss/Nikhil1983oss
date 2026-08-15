@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img
+    src="./assets/festro-live.gif"
+    width="100%"
+    alt="Festro animated banner"
+  />
+</p>
 
-<!--
-**Nikhil1983oss/Nikhil1983oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Nikhil Kumar Sharma 👋</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  AI/ML Engineer • IoT Enthusiast • Python Developer • DevOps • App Developer
+</p>
